@@ -1,0 +1,13 @@
+E:\Test Project\ConsoleTest\ProductsApp\bin\ProductsApp.dll
+E:\Test Project\ConsoleTest\ProductsApp\bin\ProductsApp.pdb
+E:\Test Project\ConsoleTest\ProductsApp\bin\Newtonsoft.Json.dll
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Net.Http.Formatting.dll
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Web.Http.dll
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Web.Http.WebHost.dll
+E:\Test Project\ConsoleTest\ProductsApp\bin\Newtonsoft.Json.xml
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Net.Http.Formatting.xml
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Web.Http.xml
+E:\Test Project\ConsoleTest\ProductsApp\bin\System.Web.Http.WebHost.xml
+E:\Test Project\ConsoleTest\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+E:\Test Project\ConsoleTest\ProductsApp\obj\Debug\ProductsApp.dll
+E:\Test Project\ConsoleTest\ProductsApp\obj\Debug\ProductsApp.pdb
